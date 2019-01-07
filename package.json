@@ -1,0 +1,19 @@
+{
+  "name": "comp397",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deruip/COMP397_WebGameProgramming.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deruip/COMP397_WebGameProgramming/issues"
+  },
+  "homepage": "https://github.com/deruip/COMP397_WebGameProgramming#readme"
+}
